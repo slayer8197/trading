@@ -19,8 +19,8 @@ fi
 set -e
 
 # Clone
-git clone https://github.com/slayer8197/trading-algo.git
-cd trading-algo
+git clone https://github.com/slayer8197/trading.git
+cd trading
 
 # Create heroku app
 echo
